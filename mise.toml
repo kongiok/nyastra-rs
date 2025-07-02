@@ -1,0 +1,5 @@
+[tools]
+rust = "stable"
+
+[env]
+_.file = ".env.yaml"
